@@ -1,0 +1,47 @@
+1. data warehouse   ..1. A comprehensive collection of data about a company and its customers.
+2.robot.. A device, controlled by a human operator or a computer, that can move and react to 
+sensory input
+3.CAD .. A general term applied to the use of computer technology to automate design 
+functions
+ 4.Neutral network.. An expert system in which the human brain’s pattern-recognition process is emulated by the comput
+5.GIS..An information system that combines geographic information with other types of 
+data (such as information about customers, sales, and so forth) in order to provide a 
+better understanding of the relationships among the data
+6.System analyst..6. A person who studies systems in an organization in order to determine what work 
+needs to be done and how this work may best be achieved
+7.TPS..7. A type of information system that processes and records data created by an organization’s business transactions
+8.MIS.. A type of information system that provides decision makers with preselected information that can be used to make middle-man
+9.SDLC.. The process consisting of the six phases of system development: preliminary investigation, system analysis, system design, system acquisition, system implementation, 
+and system maintenance
+10. BI....The process of analyzing data to evaluate a company’s operations.
+
+
+Question No1
+maintance. 
+a.  ................. The final phase of the SDLC.    
+Analysis.b.  .................  The phase that involves studying the existing system in depth.                
+Implementation...c.  .................  The phase in which the old system is converted to the new system.                         
+acquisition....d. The phase that involves RFP or RFQ preparation and benchmark tests
+Primary investigation...e. The phase in which a feasibility study is performed
+design...f. The phase that generates system specifications and a cost-benefit analysis
+
+Question no 2:
+ CAD...a. A robot painting cars in a factory.
+MMIS.. b. A manager receiving the same type of report every month.
+ c. A person buying a software package on the World Wide Web.
+ d. An architect using a computer system to plan the layout of an office buildin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
