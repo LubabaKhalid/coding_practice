@@ -1,0 +1,16 @@
+t=int(input())
+for i in range(t):
+    ok=False
+    lst=[]
+    I=input()
+ 
+    for j in range(8):
+        x=input()
+        lst.append([*x])
+    for i in range(0,8):
+        if ["R"]*8==lst[i]:
+            print("R")
+            ok=True
+            break
+    if ok==False:
+        print("B")
