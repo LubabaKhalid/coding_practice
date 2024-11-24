@@ -1,12 +1,13 @@
 t=int(input())
 for i in range(t):
     x,m=map(int,input().split())
+    n=len(x)-2
     count=0
-    for j in range(1,min(m + 1, 10**6 + 1)):
-        if x==j:
+    for j in range(1,2**(n-1)):
+        y=x^j
+        if y==0:
             continue
-        n=x^j
-        if (x%n==0 or j%n==0):
+        elif (x%j==0 or y%j==0) and y<=m:
              count+=1
     print(count)
             
