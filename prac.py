@@ -21,6 +21,6 @@ while(t):
 
     t = t-1
         
-    print(arr)
+    print(*arr)
         
 
