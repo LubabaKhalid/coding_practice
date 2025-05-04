@@ -4,7 +4,7 @@ for _ in range(t):
     p=list(map(int,input().split()))
     for i in range(n-1):
         if p[i]-p[i+1]==1:
-            p[i],p[i+1]=p[i+1],p[i]
+            p[i],p[i+1]=p[i+1],p[i]ss
     if all(p[i]<p[i+1] for i in range(n-1)):
         print("YES")
        
